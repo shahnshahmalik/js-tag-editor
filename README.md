@@ -21,13 +21,13 @@
 
 ## Initialize
 
-`const tagEdit = new TagEditor('tagEdit', inputEl, el);
+`const tagEdit = new TagEditor('tagEdit', inputEl, el);`
 
-if(inputEl) {
-    inputEl.addEventListener('keyup', event => {
-        if (event.keyCode === 13) {
-            tagEdit.addTag(inputEl.value);
-            inputEl.value = '';
-        }
-    });
-}`
+`if(inputEl) {`
+`    inputEl.addEventListener('keyup', event => {`
+`        if (event.keyCode === 13) {`
+`            tagEdit.addTag(inputEl.value);`
+`            inputEl.value = '';`
+`        }`
+`    });`
+`}`
