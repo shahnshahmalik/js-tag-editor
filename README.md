@@ -1,15 +1,15 @@
-# js-tag-editor
+# simple-tag-editor
 
-# Import the lib
+## Import the lib
 
 `import { TagEditor } from "simple-tag-editor";`
 
-# Import the Style
+## Import the Style
 
 `import "simple-tag-editor/index.css";`
 
 
-# Add a reference to the input
+## Add a reference to the input
 
 `const inputEl = document.getElementById('inputEL');`
 
@@ -19,7 +19,7 @@
 `const el = '<i class="fa fa-times"></i>';`
 
 
-# Initialize
+## Initialize
 
 `const tagEdit = new TagEditor('tagEdit', inputEl, el);
 
