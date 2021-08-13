@@ -1,27 +1,27 @@
-# simple-tag-editor
+# Simple Tag Editor
 
 
 
-## Import the lib
+#### Import the lib
 
 `import { TagEditor } from "simple-tag-editor";`
 
-## Import the Style
+#### Import the Style
 
 `import "simple-tag-editor/index.css";`
 
 
-## Add a reference to the input
+#### Add a reference to the input
 
 `const inputEl = document.getElementById('inputEL');`
 
 
-### Add a custom html for the close btn
+#### Add a custom html for the close btn
 
 `const el = '<i class="fa fa-times"></i>';`
 
 
-## Initialize
+#### Initialize
 
 `const tagEdit = new TagEditor('tagEdit', inputEl, el);`
 
@@ -35,4 +35,4 @@
 `}`
 
 
-### :sunglasses: Thanks and PR's are always welcome!
+#### :sunglasses: Thanks and PR's are always welcome!
