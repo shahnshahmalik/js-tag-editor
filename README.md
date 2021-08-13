@@ -1,5 +1,7 @@
 # simple-tag-editor
 
+
+
 ## Import the lib
 
 `import { TagEditor } from "simple-tag-editor";`
@@ -31,3 +33,6 @@
 `        }`
 `    });`
 `}`
+
+
+### :sunglasses: Thanks and PR's are always welcome!
