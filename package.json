@@ -1,24 +1,26 @@
 {
-  "name": "js-tag-editor",
-  "version": "0.0.1",
-  "description": "This is a simple Pure Js tag editor",
+  "name": "simple-tag-editor",
+  "version": "0.0.2",
+  "description": "This is a simple Js tag editor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shahnshahmalik/tag-editor.git"
+    "url": "git+https://github.com/shahnshahmalik/js-tag-editor.git"
   },
   "keywords": [
     "tag",
     "editor",
-    "tag"
+    "tag",
+    "simple-tag-editor",
+    "tag-editor-no-jquery"
   ],
   "author": "shahnshah malik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shahnshahmalik/tag-editor/issues"
+    "url": "https://github.com/shahnshahmalik/js-tag-editor/issues"
   },
-  "homepage": "https://github.com/shahnshahmalik/tag-editor#readme"
+  "homepage": "https://github.com/shahnshahmalik/js-tag-editor#readme"
 }
