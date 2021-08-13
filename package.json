@@ -1,6 +1,6 @@
 {
   "name": "simple-tag-editor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is a simple Js tag editor",
   "main": "index.js",
   "scripts": {

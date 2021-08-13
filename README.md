@@ -4,13 +4,20 @@
 
 `import { TagEditor } from "simple-tag-editor";`
 
+# Import the Style
+
+`import "simple-tag-editor/index.css";`
+
+
 # Add a reference to the input
 
 `const inputEl = document.getElementById('inputEL');`
 
+
 ### Add a custom html for the close btn
 
 `const el = '<i class="fa fa-times"></i>';`
+
 
 # Initialize
 
